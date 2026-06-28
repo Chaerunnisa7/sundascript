@@ -1,0 +1,2 @@
+# sundascript
+teknik kompilasi
